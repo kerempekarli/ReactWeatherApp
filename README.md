@@ -1,2 +1,3 @@
 # ReactWeatherApp
-![image](https://user-images.githubusercontent.com/83536108/151701409-562b3aa9-9094-45ae-be5e-57562e82b0ef.png)
+![image](https://user-images.githubusercontent.com/83536108/151701462-8b2d170d-eca5-4ba8-9ebb-860d9a24028f.png)
+
